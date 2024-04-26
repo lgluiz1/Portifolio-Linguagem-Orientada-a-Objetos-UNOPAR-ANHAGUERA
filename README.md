@@ -127,7 +127,7 @@ Aqui estão alguns trechos de código que exemplificam a definição de classes 
 
 ## Licença
 
-Este projeto está licenciado sob a [Licença MIT](LICENSE).
+Este projeto está licenciado sob a [Licença MIT](LICENSE.txt).
 
 ## Contribuição
 
